@@ -1,0 +1,11 @@
+{
+	"url": "https://www.kinderenvanversteeg.nl",
+	"theme": ".category-wrapper",
+	"themeAttribute": "data-slug-id",
+	"themeTitle": "h2.category-title",
+	"subtheme": ".subcategory",
+	"subthemeAttribute": "data-slug-id",
+	"subthemeTitle": "h3.subcategory-title",
+	"item": ".item",
+	"itemAttribute": "data-item-slug"
+}
