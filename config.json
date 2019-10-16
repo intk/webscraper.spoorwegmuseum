@@ -7,5 +7,7 @@
 	"subthemeAttribute": "data-slug-id",
 	"subthemeTitle": "h3.subcategory-title",
 	"item": ".item",
-	"itemAttribute": "data-item-slug"
+	"itemAttribute": "data-item-slug",
+	"itemTitle": ".modal-content h3.item-title",
+	"itemSubtitle": ".modal-content h4.item-subtitle"
 }
